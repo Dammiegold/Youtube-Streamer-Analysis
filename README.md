@@ -12,8 +12,10 @@ Purpose: The goal was to identify key trends, patterns, and standout performers 
 
 
 ## Dashboard
+![New Youtube](https://github.com/user-attachments/assets/356ddb59-3149-4bb2-b371-d2724ac44fc4)
 
-Key Metrics
+
+## Key Metrics
 The dashboard highlights the following metrics:
 
 - Total Subscribers: 21,873,800,000
