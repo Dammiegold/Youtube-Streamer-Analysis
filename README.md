@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project provides a comprehensive analysis of the top 1,000 YouTube streamers. Using data on subscribers, visits, likes, comments, categories, and country distribution, I aimed to extract insights into the trends, performance metrics, and audience reach of top YouTube content creators.
+This project provides a comprehensive analysis of the top 1,000 YouTube streamers. Using data on subscribers, visits, likes, comments, categories, and country distribution. I aimed to extract insights into the trends, performance metrics, and audience reach of top YouTube content creators.
 
 ## Dataset
 Name: Top 1000 YouTubers Statistics
@@ -12,6 +12,7 @@ Purpose: The goal was to identify key trends, patterns, and standout performers 
 
 
 ## Dashboard
+The Dashboard was created using Microsoft excel
 ![New Youtube](https://github.com/user-attachments/assets/356ddb59-3149-4bb2-b371-d2724ac44fc4)
 
 
